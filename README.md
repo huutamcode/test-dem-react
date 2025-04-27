@@ -1,3 +1,9 @@
+Link code chuong trinh:
+
+# https://drive.google.com/file/d/17u_Q40NVP95YIPIhtW6JqnXjkHQZ18Bz/view
+
+Link video: https://www.youtube.com/watch?v=k9HwtrZO05U
+
 #Node.js v14.17.0
 
 # Getting Started with Create React App
